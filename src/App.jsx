@@ -10,7 +10,7 @@ const App = () => {
         <div className="flex justify-between">
           <h1 className="uppercase text-white text-3xl font-semibold tracking-[0.3em]">Todo</h1>
           <button>
-            <MoonIcon className="fill-red-400"/>
+            <MoonIcon />
           </button>
         </div>
       
